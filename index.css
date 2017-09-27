@@ -1,0 +1,48 @@
+header{background-color: antiquewhite; height:50px; justify-content:center; display:flex; padding-bottom:25px;
+
+
+
+}
+
+nav{background-color: lightskyblue; justify-content: center; text-align: center; margin: 20px 0 0; padding: 10px 0 0;   }
+
+a {text-decoration: none; justify-content:space-between; flex-direction: row; padding:10px;  }
+
+
+
+section {float:left; width:60%; margin:auto;  height:auto;  clear:left;
+
+}
+
+
+
+article { height:auto; width:60%; clear:left;
+    float:left;  display:block;   }
+
+img {float:left; margin-left:-25px;}
+
+p{padding-left:10px; vertical-align: middle; display:inline-block;}
+
+
+
+
+
+
+
+
+
+
+
+aside {float:right; height:auto; width:39%; clear:right;
+
+}
+
+body{margin:auto;  padding:0;
+    height:100%;}
+
+footer{background-color:red;  clear: both;
+    position: relative;
+    z-index: 10;
+    height: 3em;
+    margin-top: -3em; }
+
